@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qz4J0KuD19IVeACENH0m6LX2/EJPdiLbIRQdMCkYH3c=",
+  "Source": "ApiAgenciaRecode-MySql",
+  "BasePath": "_content/ApiAgenciaRecode-MySql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
